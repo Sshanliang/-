@@ -332,7 +332,7 @@ a:hover {
 }
 
 footer .text-center {
-	color: #fff;
+	color: #8ECAF2;
 	font-size: 15px;
 	line-height: 50px;
 	background-color: #004574;
@@ -380,6 +380,7 @@ footer .text-center {
 
 .footer-left-div span {
 	margin-top: 32px;
+	color: #8ECAF2;
 }
 
 /* new-list */
